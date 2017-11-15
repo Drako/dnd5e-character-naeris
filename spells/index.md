@@ -42,3 +42,12 @@ These spells have the rank 0 and need neither preparation nor slots.
 * [Light](light)
 * [Mage Hand](mage-hand)
 * [Prestidigitation](prestidigitation)
+
+## Rank 1
+
+* [Burning Hands](burning-hands)
+* [Detect Magic](detect-magic)
+* [Feather Fall](feather-fall)
+* [Find Familiar](find-familiar)
+* [Magic Missile](magic-missile)
+* [Sleep](sleep)
