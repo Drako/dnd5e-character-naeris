@@ -13,6 +13,7 @@
 * Experience Points: 0
 * [Ability scores](character/ability-scores)
 * [Proficiencies](character/proficiencies)
+* [Spells](spells/)
 
 ## Appearance
 
