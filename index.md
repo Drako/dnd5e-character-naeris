@@ -10,10 +10,12 @@
 * Class: Wizard (lvl 1)
 * Personality traits: Curious, Vain
 * Ideals: Law of the strongest
-* Experience Points: 0
+* Experience Points: 0/300
+* [Inventory](character/inventory)
 * [Ability scores](character/ability-scores)
 * [Proficiencies](character/proficiencies)
 * [Spells](spells/)
+* [Currently summoned familiar (Owl)](character/familiar)
 
 ## Appearance
 
@@ -24,6 +26,12 @@
 * Hair color: Golden blonde
 * Eye color: Silver
 * Skin color: Copper
+
+## Features
+
+* **Arcane Recovery**. When you finish a short rest, regain up to 1 spell slot of 5th level or lower. (use once per day)
+* **Fey Ancestry**. Advantage on charmed saves and immune to sleep magic.
+* **Trance**. Trance 4 hours instead of sleep 8.
 
 ## Background: [Magic scholar](character/background)
 
