@@ -13,5 +13,5 @@
 * Armor class: 10
 * Passive Perception: 14
 * Max HP: 6
-* Speed: 30 ft.
-* Dark vision: 60 ft.
+* Speed: 30 ft. (ca. 9m)
+* Dark vision: 60 ft. (ca. 18m)
