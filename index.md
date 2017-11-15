@@ -22,7 +22,7 @@
 * Eye color: Silver
 * Skin color: Copper
 
-## Background
+## Background [Magic scholar](character/background)
 
 Naeris is a scholar of the mage academy in Evereska. It is tradition at that academy that a scholar spends his last 20 years before adulthood traveling the world seeking for knowledge and training his magic abilities. Therefore Naeris has already been traveling for 4 years now and coincidentally happens to meet our little group of adventurers. While an elf usually declares adulthood at approx. 100 years for scholars of the academy reaching adulthood is equivalent to becoming a master wizard. Thus after returning from her travels she will face an extremely difficult trial where she will have to utilize everything she learned so far.
 
