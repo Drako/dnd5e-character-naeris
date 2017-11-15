@@ -3,7 +3,7 @@
 * German name: Taschenspielerei
 * Casting time: 1 action
 * Range: 10 ft. (ca. 3m)
-* Duration: up to 1h
+* Duration: up to 1 hour
 * Components: Voice, Somatic
 
 This spell is a minor magic trick that novice pellcasters use for practice.
