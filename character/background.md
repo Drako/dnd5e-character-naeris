@@ -1,4 +1,4 @@
-# Magic scholar
+# Background: Magic scholar
 
 This page describes the characteristics of the "Magic scholar" background.
 
