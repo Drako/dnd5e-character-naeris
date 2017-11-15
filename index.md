@@ -28,7 +28,7 @@ Naeris is a scholar of the mage academy in Evereska. It is tradition at that aca
 
 Naeris is a descendent of an ancient gold elf (or sun elf) family purely consisting of mages. While her skills are by far not as powerful as those of her older brother she is extremely motivated to keep up with the high standards of her family. Her goal is to become one of the most powerful mages in history.
 
-Her father Arannis is a member of the city council of Everska and represents the interests of the magic community of the city, her mother Keyleth is a teacher at the mage's academy specialized in conjuration. They own a villa in the noble district and have several servants.
+Her father Arannis is a member of the city council of Evereska and represents the interests of the magic community of the city, her mother Keyleth is a teacher at the mage's academy specialized in conjuration. They own a villa in the noble district and have several servants.
 
 Her older brother Sai is 97 and as such has almost finished his travels but might still randomly be encountered by the heroes. His specialities are illusions and messing with the minds of his foes.
 
