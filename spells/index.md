@@ -1,6 +1,6 @@
 # Spells
 
-This is a comprehensive list of speels known to the character.
+This is a comprehensive list of spells known to the character.
 
 * Prepared spells per day: 4
 * Wizard level: 1
