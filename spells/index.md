@@ -5,6 +5,9 @@ This is a comprehensive list of spells known to the character.
 * Prepared spells per day: 4
 * Wizard level: 1
 
+Currently all the spells that trigger a saving throw for the target
+have a difficulty class (DC) of 13 (8 + 3 INT MOD + 2 Training bonus).
+
 ## Slots
 
 Using spells of rank 1 or higher consumes a slot of that rank or higher.
