@@ -1,6 +1,6 @@
 # Inventory
 
-* Money: 35gp
+* Money: 28gp
 * Backpack, Purse
 * Bag of Sand
 * Knife, small
@@ -10,6 +10,7 @@
 * Component pouch
 * Bedroll
 * 10x Rations
+* Herbalism Kit
 
 ## Equipment
 
