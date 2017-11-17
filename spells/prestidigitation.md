@@ -6,7 +6,7 @@
 * Duration: up to 1 hour
 * Components: Voice, Somatic
 
-This spell is a minor magic trick that novice pellcasters use for practice.
+This spell is a minor magic trick that novice spellcasters use for practice.
 You create one of the following magical effects within range:
 
 * You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
