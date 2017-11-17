@@ -10,7 +10,7 @@
 * Class: Wizard (lvl 1)
 * Personality traits: Curious, Vain
 * Ideals: Law of the strongest
-* Experience Points: 0/300
+* Experience Points: 50/300
 * [Inventory](character/inventory)
 * [Ability scores](character/ability-scores)
 * [Proficiencies](character/proficiencies)
