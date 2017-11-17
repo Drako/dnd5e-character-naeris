@@ -21,7 +21,7 @@
 | Religion        | ✗            | +3        |
 | Sleight of Hand | ✗            |  0        |
 | Stealth         | ✗            |  0        |
-| Survival        | ✗            |  0        |
+| Survival        | ✗            | +2        |
 
 ## Tools
 
