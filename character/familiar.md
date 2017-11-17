@@ -3,7 +3,7 @@
 *Tiny beast, unaligned*
 
 * Armor class: 11
-* Hit points: 1 (1d4 - 1)
+* Hit points: 2
 * Speed: 5 ft. (1.5m), fly 60 ft. (18m)
 
 * Proficiency Bonus: +2
