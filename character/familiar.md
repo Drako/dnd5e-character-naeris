@@ -24,4 +24,4 @@
 ## Skills
 
 * **Flyby**. The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
-* **Keen Hearing an Sight**. The owl has advantage on **Wisdom (Perception)** checks that rely on hearing or sight.
+* **Keen Hearing and Sight**. The owl has advantage on **Wisdom (Perception)** checks that rely on hearing or sight.
