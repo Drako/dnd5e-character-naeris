@@ -1,6 +1,6 @@
 # Inventory
 
-* Money: 19gp
+* Money: 17gp
 * Backpack, Purse
 * Bag of Sand
 * Knife, small
